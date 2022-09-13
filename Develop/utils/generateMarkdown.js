@@ -16,8 +16,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === "MIT") {
-    return `[MIT](https://choosealicense.com/licenses/mit/
-    )`;
+    return `[MIT](https://choosealicense.com/licenses/mit/)`;
   } else if (license === "Apache") {
     return `[Apache]( http://www.apache.org/licenses/)`;
   } else if (license === "GNU") {
