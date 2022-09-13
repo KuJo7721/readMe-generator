@@ -1,8 +1,8 @@
-# Realkjsf
-  ![GNU](https://img.shields.io/badge/license-GNU-brightgreen)
+# ReadMe Generator
+  ![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
-  a;lkfjdhl;s
+  This application is a command line application that generates a readMe file bases on user responses
 
   ## Table of Contents (Optional)
   
@@ -14,25 +14,26 @@
   - [Questions](#questions)
 
   ## Installation
-  lskjdf
+  Run npm i to install the packages
 
   
   
   
   ## Usage
-  jkslhfdlksj
+  To create readMes dynamically
 
  
   
   ## Contributing
-  sldkjf
+  Create a pull request to contribute to the project
   
   
   
   ## License
   
-    [GNU]( https://fsf.org/)
-    Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+    [MIT](https://choosealicense.com/licenses/mit/
+    )
+    A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
   
 
@@ -40,12 +41,12 @@
   
   
   ## Questions
-  [Link to Github page](https://github.com/lkjdsfgg)
-  If you need any more information please email me @ bob@emaki
+  [Link to Github page](https://github.com/KuJo7721)
+  If you need any more information please email me @ kjkrueger12@gmail.com
   
   
   
   ## Tests
-  lkjf
+  To run tests run npm run test
   
   
